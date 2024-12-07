@@ -16,7 +16,7 @@ VOID Banner() {
   /_/ |_|\___/\__,_/ .___/\___/_/     
                   /_/                                          
                                   
-          [Coded by MrEmpy]
+          [Coded by Brosck]
                [v1.0]
 
 )EOF");
