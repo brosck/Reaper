@@ -23,7 +23,7 @@ Reaper was specifically designed to exploit the vulnerability present in the kpr
   /_/ |_|\___/\__,_/ .___/\___/_/
                   /_/
 
-          [Coded by MrEmpy]
+          [Coded by Brosck]
                [v1.0]
 
 Usage: C:\Windows\Temp\Reaper.exe [OPTIONS] [VALUES]
@@ -45,7 +45,7 @@ Usage: C:\Windows\Temp\Reaper.exe [OPTIONS] [VALUES]
 
 ## Install
 
-You can compile it directly from the source code or [download it already compiled](https://github.com/MrEmpy/Reaper/releases/). You will need Visual Studio 2022 to compile.
+You can compile it directly from the source code or [download it already compiled](https://github.com/Brosck/Reaper/releases/). You will need Visual Studio 2022 to compile.
 
 **Note:** The executable and driver must be in the same directory.
 
